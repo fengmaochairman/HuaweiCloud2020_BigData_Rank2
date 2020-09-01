@@ -13,7 +13,8 @@
 
 2 数据下载
 
-华为云赛事列表 https://competition.huaweicloud.com/information/1000037843/introduction
+华为云赛事列表 
+https://competition.huaweicloud.com/information/1000037843/introduction
 
 3 模型运行
 . lightGBM模型
