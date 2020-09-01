@@ -4,7 +4,9 @@
 1 环境配置
 
 . Python 3.6.4
+
 . Pandas 0.22.0
+
 . lightgbm 2.3.1
 
 . Pytorch
